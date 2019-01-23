@@ -2,7 +2,7 @@
 
 some codes in CodingWithMe : Kubernetes
 
-* slides online: http://larrycai.gitlib.io/codingwithme-docker/
+* slides online: http://larrycai.github.io/codingwithme-docker/
 * slides@slideshare: https://www.slideshare.net/larrycai/learn-docker-in-90-minutes (it cannot be updated since 2017.10 due to silly slideshare)
 
 # preparation in playground
